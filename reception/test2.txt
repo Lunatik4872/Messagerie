@@ -1,0 +1,6 @@
+de : test2@gmail.com
+sujet : tkt c'est qu'un test
+
+Bonjours,
+C'est un test de message.
+Test 2
